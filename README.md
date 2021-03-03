@@ -15,8 +15,12 @@ rplidar Tutorial:  https://github.com/robopeak/rplidar_ros/wiki
 
 How to build rplidar ros package
 =====================================================================
-    1) Clone this project to your colcon's workspace src folder
-    2) Running `colcon build` to build `rplidar_node`
+1) Clone this project to your colcon's workspace src folder
+
+git clone https://github.com/ncnynl/rplidar_ros2 rplidar_ros 
+
+2) Running `colcon build` to build `rplidar_node`
+
 
 How to run rplidar ros package
 =====================================================================
