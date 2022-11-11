@@ -1,3 +1,10 @@
+
+New RPLIDAR ROS package
+=====================================================================
+New Code please visit https://github.com/ncnynl/sllidar_ros2 
+
+
+
 RPLIDAR ROS package
 =====================================================================
 
